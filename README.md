@@ -1,6 +1,6 @@
 ## Network
 
-HAR: TODO
+[HAR](./www.gd.ru.har)
 
 Неоптимальные места:
 
@@ -22,7 +22,7 @@ HAR: TODO
 
 ## Performance
 
-Профиль загрузки: TODO
+[Профиль загрузки](./performance_profile.json)
 
 Время до:
 - FP (first paint) - 649ms
